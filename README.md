@@ -36,36 +36,49 @@
 
 **Analysis to delivery.** Модели данных, технические задания, описание бизнес-логики, синхронизация аналитиков, разработки и заказчиков.
 
-<details>
-<summary><strong>Как я подхожу к инженерным задачам</strong></summary>
-
-- Сначала фиксирую контекст: источники, потребителей данных, ограничения, SLA и владельцев логики.
-- Проектирую модель данных до реализации, чтобы ETL, API и отчетность не расходились по смыслу.
-- Разделяю слой данных, бизнес-логику и интеграции, чтобы систему было проще поддерживать.
-- Документирую решения так, чтобы ими могли пользоваться аналитики, разработчики и заказчики.
-
-</details>
-
 ### Технологический стек
 
-<p>
-  <img src="https://img.shields.io/badge/Data%20Engineering-6F7D3C?style=for-the-badge&labelColor=5B4636" alt="Data Engineering"><br>
-  <code>Python</code> <code>SQL</code> <code>PostgreSQL</code> <code>Vertica</code> <code>ETL</code> <code>DWH</code>
-</p>
+**Data Engineering**
 
 <p>
-  <img src="https://img.shields.io/badge/Big%20Data%20%26%20Orchestration-8A6A42?style=for-the-badge&labelColor=5B4636" alt="Big Data and Orchestration"><br>
-  <code>Hadoop</code> <code>Hive</code> <code>Spark</code> <code>PySpark</code> <code>Airflow</code> <code>ClickHouse</code>
+  <img src="https://img.shields.io/badge/Python-6F7D3C?style=flat-square&labelColor=F3E7D3&logo=python&logoColor=5B4636" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-6F7D3C?style=flat-square&labelColor=F3E7D3" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-6F7D3C?style=flat-square&labelColor=F3E7D3&logo=postgresql&logoColor=5B4636" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Vertica-6F7D3C?style=flat-square&labelColor=F3E7D3" alt="Vertica">
+  <img src="https://img.shields.io/badge/ETL-6F7D3C?style=flat-square&labelColor=F3E7D3" alt="ETL">
+  <img src="https://img.shields.io/badge/DWH-6F7D3C?style=flat-square&labelColor=F3E7D3" alt="DWH">
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Backend-5B4636?style=for-the-badge&labelColor=6F7D3C" alt="Backend"><br>
-  <code>TypeScript</code> <code>Node.js</code> <code>GraphQL</code> <code>Redis</code> <code>JWT</code> <code>API</code>
-</p>
+**Big Data & Orchestration**
 
 <p>
-  <img src="https://img.shields.io/badge/Analytics%20%26%20BI-A47148?style=for-the-badge&labelColor=5B4636" alt="Analytics and BI"><br>
-  <code>Power Query</code> <code>Power BI</code> <code>dashboards</code> <code>data marts</code> <code>documentation</code>
+  <img src="https://img.shields.io/badge/Hadoop-8A6A42?style=flat-square&labelColor=F3E7D3&logo=apachehadoop&logoColor=5B4636" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Hive-8A6A42?style=flat-square&labelColor=F3E7D3&logo=apachehive&logoColor=5B4636" alt="Hive">
+  <img src="https://img.shields.io/badge/Spark-8A6A42?style=flat-square&labelColor=F3E7D3&logo=apachespark&logoColor=5B4636" alt="Spark">
+  <img src="https://img.shields.io/badge/PySpark-8A6A42?style=flat-square&labelColor=F3E7D3" alt="PySpark">
+  <img src="https://img.shields.io/badge/Airflow-8A6A42?style=flat-square&labelColor=F3E7D3&logo=apacheairflow&logoColor=5B4636" alt="Airflow">
+  <img src="https://img.shields.io/badge/ClickHouse-8A6A42?style=flat-square&labelColor=F3E7D3&logo=clickhouse&logoColor=5B4636" alt="ClickHouse">
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-5B4636?style=flat-square&labelColor=F3E7D3&logo=typescript&logoColor=5B4636" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-5B4636?style=flat-square&labelColor=F3E7D3&logo=nodedotjs&logoColor=5B4636" alt="Node.js">
+  <img src="https://img.shields.io/badge/GraphQL-5B4636?style=flat-square&labelColor=F3E7D3&logo=graphql&logoColor=5B4636" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Redis-5B4636?style=flat-square&labelColor=F3E7D3&logo=redis&logoColor=5B4636" alt="Redis">
+  <img src="https://img.shields.io/badge/JWT-5B4636?style=flat-square&labelColor=F3E7D3&logo=jsonwebtokens&logoColor=5B4636" alt="JWT">
+  <img src="https://img.shields.io/badge/API-5B4636?style=flat-square&labelColor=F3E7D3" alt="API">
+</p>
+
+**Analytics & BI**
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20Query-A47148?style=flat-square&labelColor=F3E7D3" alt="Power Query">
+  <img src="https://img.shields.io/badge/Power%20BI-A47148?style=flat-square&labelColor=F3E7D3&logo=powerbi&logoColor=5B4636" alt="Power BI">
+  <img src="https://img.shields.io/badge/dashboards-A47148?style=flat-square&labelColor=F3E7D3" alt="dashboards">
+  <img src="https://img.shields.io/badge/data%20marts-A47148?style=flat-square&labelColor=F3E7D3" alt="data marts">
+  <img src="https://img.shields.io/badge/documentation-A47148?style=flat-square&labelColor=F3E7D3" alt="documentation">
 </p>
 
 ### Чем полезна команде
