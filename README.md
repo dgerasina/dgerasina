@@ -11,8 +11,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:5B4636,45:F3E7D3,100:6F7D3C" alt="">
-  <br>
-  <img src="https://img.shields.io/badge/palette-beige%20%7C%20brown%20%7C%20olive-6F7D3C?style=flat-square&labelColor=5B4636" alt="Palette">
 </p>
 
 <p align="center">
@@ -28,12 +26,7 @@
 
 ### Профиль
 
-**Data Engineer / Backend Developer** с медицинским бэкграундом и опытом в государственных, транспортных и медицинских проектах. Проектирую DWH и витрины данных, разрабатываю ETL-процессы, работаю с корпоративными хранилищами и строю backend-сервисы вокруг данных: API, интеграции, микросервисы и серверную логику.
-
-```text
-Target roles: Data Engineer · Backend Developer · System Analyst DWH
-Core domain: data platforms · transport analytics · healthcare systems
-```
+**Data Engineer / Backend Developer** с медицинским бэкграундом и опытом в государственных, транспортных и медицинских проектах. Проектирую DWH и витрины данных, разрабатываю ETL-процессы, работаю с корпоративными хранилищами и строю backend-сервисы вокруг данных: API, интеграции, микросервисы и серверную логику. Сильнее всего полезна в командах, где нужно соединить data engineering, backend-разработку и системный анализ в одном продукте.
 
 ### Инженерный фокус
 
