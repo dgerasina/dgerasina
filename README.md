@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/email-dgerasina21%40gmail.com-5B4636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/telegram-@dgerasina21-6F7D3C?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/dgerasina21%40gmail.com-5B4636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/@dgerasina21-6F7D3C?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 <p align="center">
@@ -214,7 +214,7 @@ DWH для государственной платформы: SDMX-модели,
 
 ### Контакты
 
-<p>
+<p align="center">
   <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/Email-dgerasina21%40gmail.com-5B4636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/Telegram-@dgerasina21-6F7D3C?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://discordapp.com/users/691271044098687036/"><img src="https://img.shields.io/badge/Discord-dgerasina-A47148?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
