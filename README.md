@@ -6,9 +6,16 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=111827&center=true&vCenter=true&width=760&lines=Designing+DWH+and+analytical+data+marts;Building+ETL+pipelines+and+backend+APIs;Turning+domain+logic+into+reliable+data+systems" alt="Typing SVG">
+</p>
+
+<p align="center">
   <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/email-dgerasina21%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/telegram-@dgerasina21-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <img src="https://img.shields.io/badge/Moscow-111827?style=for-the-badge" alt="Moscow">
+</p>
+
+<p align="center">
+  Moscow · remote-friendly · open to Data Engineering / Backend roles
 </p>
 
 ---
@@ -29,6 +36,16 @@ Core domain: data platforms · transport analytics · healthcare systems
 **Backend around data.** TypeScript/Node.js, микросервисы, GraphQL/API, PostgreSQL, Redis, серверные интеграции и обработка данных на backend.
 
 **Analysis to delivery.** Модели данных, технические задания, описание бизнес-логики, синхронизация аналитиков, разработки и заказчиков.
+
+<details>
+<summary><strong>Как я подхожу к инженерным задачам</strong></summary>
+
+- Сначала фиксирую контекст: источники, потребителей данных, ограничения, SLA и владельцев логики.
+- Проектирую модель данных до реализации, чтобы ETL, API и отчетность не расходились по смыслу.
+- Разделяю слой данных, бизнес-логику и интеграции, чтобы систему было проще поддерживать.
+- Документирую решения так, чтобы ими могли пользоваться аналитики, разработчики и заказчики.
+
+</details>
 
 ### Технологический стек
 
@@ -106,6 +123,16 @@ DWH для государственной платформы: SDMX-модели,
 Архитектура БД для медицинских данных, ETL-пайплайны, BI-дашборды и техническая документация для запуска платформы.
 
 `PostgreSQL` `Python` `SQL` `Power Query`
+
+<details>
+<summary><strong>Быстрый технический срез проектов</strong></summary>
+
+- **DWH / Data Lake:** модели данных, DDL, витрины, регулярные ETL, PySpark-расчеты.
+- **Backend:** GraphQL API, микросервисы, PostgreSQL, Redis, JWT, интеграции.
+- **Analytics:** BI-дашборды, машиночитаемые отчеты, техническая документация.
+- **Domains:** транспорт, биобезопасность, биофабрикация, медицинская аналитика.
+
+</details>
 
 ### Образование и развитие
 
