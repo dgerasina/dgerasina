@@ -147,25 +147,48 @@
 
 DWH для государственной платформы: SDMX-модели, витрины данных, SQL-оптимизация и регулярные ETL-процессы.
 
-`PostgreSQL` `SQL` `ETL` `SDMX`
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-6F7D3C?style=flat-square&labelColor=F3E7D3&logo=postgresql&logoColor=5B4636" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQL-6F7D3C?style=flat-square&labelColor=F3E7D3" alt="SQL">
+  <img src="https://img.shields.io/badge/ETL-6F7D3C?style=flat-square&labelColor=F3E7D3" alt="ETL">
+  <img src="https://img.shields.io/badge/SDMX-6F7D3C?style=flat-square&labelColor=F3E7D3" alt="SDMX">
+</p>
 
 #### Платформа биофабрикации
 
 Проектирование базы данных и backend цифровой платформы: модель данных, GraphQL API, интеграции и серверная бизнес-логика.
 
-`PostgreSQL` `TypeScript` `Node.js` `GraphQL` `Redis`
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-5B4636?style=flat-square&labelColor=F3E7D3&logo=postgresql&logoColor=5B4636" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/TypeScript-5B4636?style=flat-square&labelColor=F3E7D3&logo=typescript&logoColor=5B4636" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-5B4636?style=flat-square&labelColor=F3E7D3&logo=nodedotjs&logoColor=5B4636" alt="Node.js">
+  <img src="https://img.shields.io/badge/GraphQL-5B4636?style=flat-square&labelColor=F3E7D3&logo=graphql&logoColor=5B4636" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Redis-5B4636?style=flat-square&labelColor=F3E7D3&logo=redis&logoColor=5B4636" alt="Redis">
+</p>
 
 #### Транспортный Data Lake и аналитическое DWH
 
 Промышленный `bigdata-dwh` для транспортного домена: DDL-модели, Airflow DAGs, PySpark-расчеты, интеграции с источниками и аналитические витрины.
 
-`Hadoop` `Airflow` `PySpark` `Hive` `Vertica` `ClickHouse`
+<p>
+  <img src="https://img.shields.io/badge/Hadoop-8A6A42?style=flat-square&labelColor=F3E7D3&logo=apachehadoop&logoColor=5B4636" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Airflow-8A6A42?style=flat-square&labelColor=F3E7D3&logo=apacheairflow&logoColor=5B4636" alt="Airflow">
+  <img src="https://img.shields.io/badge/PySpark-8A6A42?style=flat-square&labelColor=F3E7D3" alt="PySpark">
+  <img src="https://img.shields.io/badge/Hive-8A6A42?style=flat-square&labelColor=F3E7D3&logo=apachehive&logoColor=5B4636" alt="Hive">
+  <img src="https://img.shields.io/badge/Vertica-8A6A42?style=flat-square&labelColor=F3E7D3" alt="Vertica">
+  <img src="https://img.shields.io/badge/ClickHouse-8A6A42?style=flat-square&labelColor=F3E7D3&logo=clickhouse&logoColor=5B4636" alt="ClickHouse">
+</p>
 
 #### Медицинская аналитическая платформа
 
 Архитектура БД для медицинских данных, ETL-пайплайны, BI-дашборды и техническая документация для запуска платформы.
 
-`PostgreSQL` `Python` `SQL` `Power Query`
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-A47148?style=flat-square&labelColor=F3E7D3&logo=postgresql&logoColor=5B4636" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Python-A47148?style=flat-square&labelColor=F3E7D3&logo=python&logoColor=5B4636" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-A47148?style=flat-square&labelColor=F3E7D3" alt="SQL">
+  <img src="https://img.shields.io/badge/Power%20Query-A47148?style=flat-square&labelColor=F3E7D3" alt="Power Query">
+</p>
 
 <details>
 <summary><strong>Быстрый технический срез проектов</strong></summary>
