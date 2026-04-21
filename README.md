@@ -6,12 +6,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=111827&center=true&vCenter=true&width=760&lines=Designing+DWH+and+analytical+data+marts;Building+ETL+pipelines+and+backend+APIs;Turning+domain+logic+into+reliable+data+systems" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=6F7D3C&center=true&vCenter=true&width=760&lines=Designing+DWH+and+analytical+data+marts;Building+ETL+pipelines+and+backend+APIs;Turning+domain+logic+into+reliable+data+systems" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/email-dgerasina21%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/telegram-@dgerasina21-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:5B4636,45:F3E7D3,100:6F7D3C" alt="">
+  <br>
+  <img src="https://img.shields.io/badge/palette-beige%20%7C%20brown%20%7C%20olive-6F7D3C?style=flat-square&labelColor=5B4636" alt="Palette">
+</p>
+
+<p align="center">
+  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/email-dgerasina21%40gmail.com-5B4636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/telegram-@dgerasina21-6F7D3C?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 <p align="center">
@@ -50,10 +56,10 @@ Core domain: data platforms · transport analytics · healthcare systems
 ### Технологический стек
 
 <p>
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQL%20%7C%20PostgreSQL%20%7C%20Vertica-0f172a?style=flat-square" alt="Data stack">
-  <img src="https://img.shields.io/badge/Big%20Data-Hadoop%20%7C%20Hive%20%7C%20Spark%20%7C%20Airflow-0f172a?style=flat-square" alt="Big data stack">
-  <img src="https://img.shields.io/badge/Backend-TypeScript%20%7C%20Node.js%20%7C%20GraphQL%20%7C%20Redis-0f172a?style=flat-square" alt="Backend stack">
-  <img src="https://img.shields.io/badge/BI-Power%20Query%20%7C%20Power%20BI%20%7C%20dashboards-0f172a?style=flat-square" alt="BI stack">
+  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQL%20%7C%20PostgreSQL%20%7C%20Vertica-6F7D3C?style=flat-square" alt="Data stack">
+  <img src="https://img.shields.io/badge/Big%20Data-Hadoop%20%7C%20Hive%20%7C%20Spark%20%7C%20Airflow-8A6A42?style=flat-square" alt="Big data stack">
+  <img src="https://img.shields.io/badge/Backend-TypeScript%20%7C%20Node.js%20%7C%20GraphQL%20%7C%20Redis-5B4636?style=flat-square" alt="Backend stack">
+  <img src="https://img.shields.io/badge/BI-Power%20Query%20%7C%20Power%20BI%20%7C%20dashboards-A47148?style=flat-square" alt="BI stack">
 </p>
 
 ### Чем полезна команде
@@ -149,7 +155,7 @@ DWH для государственной платформы: SDMX-модели,
 ### Контакты
 
 <p>
-  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/Email-dgerasina21%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/Telegram-@dgerasina21-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discordapp.com/users/691271044098687036/"><img src="https://img.shields.io/badge/Discord-dgerasina-111827?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/Email-dgerasina21%40gmail.com-5B4636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/Telegram-@dgerasina21-6F7D3C?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://discordapp.com/users/691271044098687036/"><img src="https://img.shields.io/badge/Discord-dgerasina-A47148?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
