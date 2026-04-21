@@ -49,10 +49,23 @@
 ### Технологический стек
 
 <p>
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQL%20%7C%20PostgreSQL%20%7C%20Vertica-6F7D3C?style=flat-square" alt="Data stack">
-  <img src="https://img.shields.io/badge/Big%20Data-Hadoop%20%7C%20Hive%20%7C%20Spark%20%7C%20Airflow-8A6A42?style=flat-square" alt="Big data stack">
-  <img src="https://img.shields.io/badge/Backend-TypeScript%20%7C%20Node.js%20%7C%20GraphQL%20%7C%20Redis-5B4636?style=flat-square" alt="Backend stack">
-  <img src="https://img.shields.io/badge/BI-Power%20Query%20%7C%20Power%20BI%20%7C%20dashboards-A47148?style=flat-square" alt="BI stack">
+  <img src="https://img.shields.io/badge/Data%20Engineering-6F7D3C?style=for-the-badge&labelColor=5B4636" alt="Data Engineering"><br>
+  <code>Python</code> <code>SQL</code> <code>PostgreSQL</code> <code>Vertica</code> <code>ETL</code> <code>DWH</code>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Big%20Data%20%26%20Orchestration-8A6A42?style=for-the-badge&labelColor=5B4636" alt="Big Data and Orchestration"><br>
+  <code>Hadoop</code> <code>Hive</code> <code>Spark</code> <code>PySpark</code> <code>Airflow</code> <code>ClickHouse</code>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-5B4636?style=for-the-badge&labelColor=6F7D3C" alt="Backend"><br>
+  <code>TypeScript</code> <code>Node.js</code> <code>GraphQL</code> <code>Redis</code> <code>JWT</code> <code>API</code>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Analytics%20%26%20BI-A47148?style=for-the-badge&labelColor=5B4636" alt="Analytics and BI"><br>
+  <code>Power Query</code> <code>Power BI</code> <code>dashboards</code> <code>data marts</code> <code>documentation</code>
 </p>
 
 ### Чем полезна команде
