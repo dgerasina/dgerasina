@@ -1,66 +1,50 @@
 <h1 align="center">Дарья Герасина</h1>
 
 <p align="center">
-  <strong>Data Engineer / Backend Developer</strong>
-</p>
-
-<p align="center">
+  <strong>Data Engineer / Backend Developer</strong><br>
   DWH · ETL · Backend API · PostgreSQL · Python · TypeScript · Big Data
 </p>
 
 <p align="center">
-  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/email-dgerasina21%40gmail.com-24292f?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/telegram-@dgerasina21-24292f?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <img src="https://img.shields.io/badge/location-Moscow-24292f?style=flat" alt="Location">
+  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/email-dgerasina21%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/telegram-@dgerasina21-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <img src="https://img.shields.io/badge/Moscow-111827?style=for-the-badge" alt="Moscow">
 </p>
 
 ---
 
+### Профиль
+
 **Data Engineer / Backend Developer** с медицинским бэкграундом и опытом в государственных, транспортных и медицинских проектах. Проектирую DWH и витрины данных, разрабатываю ETL-процессы, работаю с корпоративными хранилищами и строю backend-сервисы вокруг данных: API, интеграции, микросервисы и серверную логику.
 
-Рассматриваю роли: **Data Engineer**, **Backend Developer**, **System Analyst DWH**.
+```text
+Target roles: Data Engineer · Backend Developer · System Analyst DWH
+Core domain: data platforms · transport analytics · healthcare systems
+```
 
-### Позиционирование
+### Инженерный фокус
 
-| Направление | Что делаю |
-|---|---|
-| **Data Engineering** | DWH, ETL, витрины данных, SQL-оптимизация, корпоративные хранилища, каталоги данных |
-| **Backend Development** | TypeScript/Node.js, микросервисы, GraphQL/API, PostgreSQL, Redis, серверные интеграции |
-| **System Analysis** | Модели данных, ТЗ, описание бизнес-логики, синхронизация аналитиков, разработки и заказчиков |
+**Data platforms.** DWH, корпоративные хранилища, витрины данных, ETL, SQL-оптимизация, каталоги данных, lineage и качество данных.
 
-### Что приношу команде
+**Backend around data.** TypeScript/Node.js, микросервисы, GraphQL/API, PostgreSQL, Redis, серверные интеграции и обработка данных на backend.
 
-- Быстро разбираюсь в предметной области и перевожу бизнес-логику в модели данных, API и понятные технические требования.
-- Умею работать с данными end-to-end: от источников и ETL до витрин, отчетности и backend-интерфейсов.
-- Пишу документацию, которая помогает синхронизировать аналитиков, разработчиков и заказчиков.
+**Analysis to delivery.** Модели данных, технические задания, описание бизнес-логики, синхронизация аналитиков, разработки и заказчиков.
 
-### Технологии
+### Технологический стек
 
 <p>
-  <img src="https://img.shields.io/badge/Python-24292f?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-24292f?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-24292f?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/SQL-24292f?style=flat&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-24292f?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/GraphQL-24292f?style=flat&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Redis-24292f?style=flat&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Apache%20Spark-24292f?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/Apache%20Hive-24292f?style=flat&logo=apachehive&logoColor=white" alt="Apache Hive">
-  <img src="https://img.shields.io/badge/Hadoop-24292f?style=flat&logo=apachehadoop&logoColor=white" alt="Hadoop">
-  <img src="https://img.shields.io/badge/Power%20BI-24292f?style=flat&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/Git-24292f?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQL%20%7C%20PostgreSQL%20%7C%20Vertica-0f172a?style=flat-square" alt="Data stack">
+  <img src="https://img.shields.io/badge/Big%20Data-Hadoop%20%7C%20Hive%20%7C%20Spark%20%7C%20Airflow-0f172a?style=flat-square" alt="Big data stack">
+  <img src="https://img.shields.io/badge/Backend-TypeScript%20%7C%20Node.js%20%7C%20GraphQL%20%7C%20Redis-0f172a?style=flat-square" alt="Backend stack">
+  <img src="https://img.shields.io/badge/BI-Power%20Query%20%7C%20Power%20BI%20%7C%20dashboards-0f172a?style=flat-square" alt="BI stack">
 </p>
 
-### Ключевые навыки
+### Чем полезна команде
 
-| Data Engineering | Backend Development |
-|---|---|
-| DWH, корпоративные хранилища, витрины данных | TypeScript, Node.js, микросервисная архитектура |
-| ETL на SQL, Python и Power Query | Moleculer, Apollo GraphQL, WebSocket |
-| PostgreSQL, Vertica, CTE, индексы, партиционирование | PostgreSQL, Knex, Redis, JWT |
-| Hadoop, Apache Hive, Apache Spark | REST/GraphQL API, фоновые задачи, файловые загрузки |
-| Метаданные, lineage, качество данных | Серверные интеграции и обработка данных на backend |
-| BI-дашборды, отчетность, машиночитаемые данные | ТЗ, модели данных, описание бизнес-логики |
+- Закрываю путь от источника данных до бизнес-результата: загрузка, обработка, витрина, отчетность, API.
+- Умею проектировать структуру данных до реализации: концептуальная, логическая и физическая модели.
+- Пишу backend-сервисы вокруг данных: API, интеграции, фоновые задачи, файловые загрузки, серверная бизнес-логика.
+- Говорю на языке аналитиков, разработчиков и заказчиков, фиксирую договоренности в понятной технической документации.
 
 ### Опыт
 
@@ -97,16 +81,33 @@
 - Создавала бизнес-модель медицинской программы и писала техническое задание.
 - Участвовала в научном проекте по анализу медицинских данных.
 
-### Проекты
+### Избранные проекты
 
-| Проект | Роль и результат | Стек |
-|---|---|---|
-| **Хранилище данных биобезопасности** | DWH, SDMX-модели, витрины, SQL-оптимизация, регулярные ETL | PostgreSQL, SQL, ETL, SDMX |
-| **Платформа биофабрикации** | Проектирование БД и backend: модель данных, GraphQL API, интеграции | PostgreSQL, TypeScript, Node.js, GraphQL, Redis |
-| **Транспортный Data Lake и аналитическое DWH** | `bigdata-dwh`: DDL-модели, Airflow DAGs, PySpark-расчеты, интеграции, витрины | Hadoop, Airflow, PySpark, Hive, Vertica, ClickHouse |
-| **Медицинская аналитическая платформа** | Архитектура БД, ETL-пайплайны, BI-дашборды, техническая документация | PostgreSQL, Python, SQL, Power Query |
+#### Хранилище данных биобезопасности
 
-### Образование и курсы
+DWH для государственной платформы: SDMX-модели, витрины данных, SQL-оптимизация и регулярные ETL-процессы.
+
+`PostgreSQL` `SQL` `ETL` `SDMX`
+
+#### Платформа биофабрикации
+
+Проектирование базы данных и backend цифровой платформы: модель данных, GraphQL API, интеграции и серверная бизнес-логика.
+
+`PostgreSQL` `TypeScript` `Node.js` `GraphQL` `Redis`
+
+#### Транспортный Data Lake и аналитическое DWH
+
+Промышленный `bigdata-dwh` для транспортного домена: DDL-модели, Airflow DAGs, PySpark-расчеты, интеграции с источниками и аналитические витрины.
+
+`Hadoop` `Airflow` `PySpark` `Hive` `Vertica` `ClickHouse`
+
+#### Медицинская аналитическая платформа
+
+Архитектура БД для медицинских данных, ETL-пайплайны, BI-дашборды и техническая документация для запуска платформы.
+
+`PostgreSQL` `Python` `SQL` `Power Query`
+
+### Образование и развитие
 
 - **Московская международная академия** - магистратура, факультет информационных систем и технологий, прикладная информатика, 2027.
 - **Первый МГМУ им. И.М. Сеченова** - институт цифровой медицины, специалист по анализу данных, 2024.
@@ -116,17 +117,12 @@
 
 ### Языки
 
-| Язык | Уровень |
-|---|---|
-| Русский | Родной |
-| Английский | B2 |
-| Испанский | A2 |
-| Немецкий | A2 |
+`Русский — родной` · `Английский — B2` · `Испанский — A2` · `Немецкий — A2`
 
 ### Контакты
 
 <p>
-  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/Email-dgerasina21%40gmail.com-24292f?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/Telegram-@dgerasina21-24292f?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discordapp.com/users/691271044098687036/"><img src="https://img.shields.io/badge/Discord-dgerasina-24292f?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:dgerasina21@gmail.com"><img src="https://img.shields.io/badge/Email-dgerasina21%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/dgerasina21"><img src="https://img.shields.io/badge/Telegram-@dgerasina21-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://discordapp.com/users/691271044098687036/"><img src="https://img.shields.io/badge/Discord-dgerasina-111827?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
